@@ -1,0 +1,7 @@
+{
+  "name": "Nitro Blaze: 3D Gemini Racer",
+  "description": "A high-octane 3D car racing game featuring real-life car models, weapon systems, and nitro boosts. Powered by Gemini for dynamic race commentary and car lore.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
